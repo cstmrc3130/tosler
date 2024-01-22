@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Metrophobic&display=swap');
+
+@layer base
+{
+
+    html,
+    body
+    {
+        font-family: "Metrophobic", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    /* *
+    {
+        scroll-margin-top: 75px;
+    } */
+}
