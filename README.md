@@ -2,7 +2,7 @@
 
 A React-based to-do scheduler, with non-disruptive ringtone & real-time time lapse.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is available by firebase hosting in [Tosler](https://todo-scheduler-cc6a9.web.app/).
 
 ## Available Scripts
 
